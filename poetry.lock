@@ -1,0 +1,18 @@
+[[package]]
+name = "lib"
+version = "4.0.0"
+description = "Autocode standard library Python bindings"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "cab7390eb79981a887879b4b7723f0417c2689a396d94081b0a4a5ec72d70ffb"
+
+[metadata.files]
+lib = [
+    {file = "lib-4.0.0-py3-none-any.whl", hash = "sha256:d0a9e03b27d2b94c403f43c1af39366500032d587dcd45ffdf707131cbdf58c6"},
+    {file = "lib-4.0.0.tar.gz", hash = "sha256:da861f02e9ee8748a8f168584de94f0ed85aad65e70f62760f1962ae515c94e1"},
+]
